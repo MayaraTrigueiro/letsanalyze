@@ -1,4 +1,4 @@
-# GLOBAL VACCINE TRAKER
+# GLOBAL VACCINE TRACKER
 
 ## Situation
 The COVID-19 pandemic has been a global crisis that has affected millions of people worldwide. One of the most effective ways to combat the pandemic is through vaccination. However, the vaccination rollout has been uneven across the globe, with some countries making significant progress towards vaccinating their populations while others lag behind. The goal of this project was to provide insights on the vaccination rollout at a global scale, with a focus on quantifying the speed and scale of the vaccination program on a daily basis.
